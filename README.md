@@ -63,35 +63,35 @@ The RMS Titanic was a British passenger liner that sank in the North Atlantic Oc
 
 ### Data Visualization
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/Age.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/Age.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/sex.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/sex.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/Survived.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/Survived.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/SexandSurvived.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/SexandSurvived.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/SurvivedandPclass.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/SurvivedandPclass.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/SurvivedandEmbarked.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/SurvivedandEmbarked.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/SibspandSurvived.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/SibspandSurvived.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/ParchandSurvived.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/ParchandSurvived.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/correlation.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/correlation.png)
 
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/ROC.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/ROC.png)
 
 
-![](https://github.com/Creatoraswin/Titanic-Regression-Dataset/blob/main/Data%20Visualization/TPRvsFPR.png)
+![](https://github.com/CreatorAswin/Titanic-Regression/blob/main/Data%20Visualization/TPRvsFPR.png)
